@@ -1,5 +1,7 @@
 # Gestion de Stock - Pièces Automobiles
 
+**📺 Regardez une démonstration vidéo de l'application sur YouTube :** [(https://youtu.be/PO5D8wPlR5s)]
+
 Une application web professionnelle et complète pour la gestion de stock de pièces automobiles, développée en PHP, MySQL, HTML, CSS et JavaScript.
 
 ## 🚀 Fonctionnalités Principales
@@ -334,5 +336,6 @@ Ce projet est sous licence **MIT**. Vous êtes libre de :
 **Auteur** : Sara EL HADDAJ
 
 **Statut** : Production Ready ✅ 
+
 
 
