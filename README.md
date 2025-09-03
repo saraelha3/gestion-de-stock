@@ -330,7 +330,7 @@ Ce projet est sous licence **MIT**. Vous êtes libre de :
 ---
 
 **Version** : 1.0.0  
-**Dernière mise à jour** : Décembre 2024  
-**Auteur** : Votre Nom  
-
+**Dernière mise à jour** : Septembre 2025
+**Auteur** : Sara EL HADDAJ
 **Statut** : Production Ready ✅ 
+
